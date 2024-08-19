@@ -1,4 +1,4 @@
-```markdown
+
 # Experiment: Setup a Linux Based Lilypad Resource Provider with no GPU attached
 
 This is an experiment to see what happens when an individual sets up a lilypad resource-provider without a GPU attached. After doing the experiment, it seems like if you try to setup a lilypad RP without a Nvidia GPU, you will not be able to start the Lilypad RP service. 
