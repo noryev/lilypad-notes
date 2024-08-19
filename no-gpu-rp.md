@@ -35,5 +35,7 @@ systemd [1]:`
 Attempt this while setting the GPU var to zero within the RP Provider Variables
 ![Screenshot from 2024-08-18 16-43-15](https://github.com/user-attachments/assets/27fdedac-f610-401f-af17-15fe42310622)
 
+I am getting the same error as before: Error while loading shared libraries. 
+
 Side Notes: I should try this again while also installing the nvidia drivers and then see what happens. Make sure setting the GPU to zero works for CPU Resource-Providers. 
 ```
